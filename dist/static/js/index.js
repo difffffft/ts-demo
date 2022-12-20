@@ -1,0 +1,2 @@
+!function(){"use strict";console.log(30);var o={name:"sada"},n=function(o,n){return o+n},l=function(){return new Promise((function(o,n){o("123")}))};console.log(l),console.log(l),console.log(n),console.log(n),console.log(o),console.log(o)}();
+//# sourceMappingURL=index.js.map
