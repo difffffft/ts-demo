@@ -1,2 +1,2 @@
-!function(){"use strict";console.log(30);var o={name:"sada"},n=function(o,n){return o+n},l=function(){return new Promise((function(o,n){o("123")}))};console.log(l),console.log(l),console.log(n),console.log(n),console.log(o),console.log(o)}();
+!function(){var e=function(){function e(e){this.age=0,this._name=e}return Object.defineProperty(e.prototype,"name",{get:function(){return this._name},enumerable:!1,configurable:!0}),e}();Vue.createApp({data:function(){return{msg:new e("Hello TypeScript!").name}}}).mount("#app")}();
 //# sourceMappingURL=index.js.map
